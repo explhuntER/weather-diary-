@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+weather_data.json
+
+# IDEs
+.vscode/
+.idea/
